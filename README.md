@@ -1,9 +1,5 @@
 <p align="center">
-  <img 
-    src="./assets/banner-edeson-github.svg"
-    alt="Edeson Caio - Desenvolvedor Full Stack"
-    width="100%"
-  >
+  <img src="./assets/banner.svg" width="100%" alt="Edeson Caio - Desenvolvedor Full Stack">
 </p>
 
 <p align="center">
