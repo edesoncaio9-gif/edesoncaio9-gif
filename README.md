@@ -1,12 +1,16 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Edeson Caio - Desenvolvedor Full Stack">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=220&section=header&text=Edeson%20Caio&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20JavaScript%20%E2%80%A2%20Node.js&descSize=20&descAlignY=62&animation=fadeIn"
+    width="100%"
+    alt="Edeson Caio - Full Stack Developer"
+  />
 </p>
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=edesoncaio9-gif&label=VISITAS%20AO%20PERFIL&color=2167E8&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=edesoncaio9-gif&label=VISITAS%20AO%20PERFIL&color=4B0082&style=for-the-badge"
     alt="Visitas ao perfil"
-  >
+  />
 </p>
 
 <h1 data-importer="text" align="left">Olá 👋 tudo bem?</h1>
