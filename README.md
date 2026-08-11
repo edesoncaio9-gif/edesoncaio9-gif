@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Edeson Caio - Desenvolvedor Full Stack">
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=edesoncaio9-gif&label=VISITAS%20AO%20PERFIL&color=2167E8&style=for-the-badge"
+    alt="Visitas ao perfil"
+  >
+</p>
+
 <h1 data-importer="text" align="left">Olá 👋 tudo bem?</h1>
 
 ###
