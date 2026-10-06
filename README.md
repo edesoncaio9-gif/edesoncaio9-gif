@@ -17,7 +17,7 @@
 
 ###
 
-<p data-importer="text" align="left">Graduando em Ciência da Computação pela UNIP, atualmente no 8º período, com experiência em suporte técnico e desenvolvimento de sistemas. Tenho experiência com JavaScript, Node.js, Express.js, Python, Flask, PostgreSQL, Kotlin e desenvolvimento de aplicações Web e Android. Ao longo da formação, desenvolvi projetos como um sistema de gerenciamento de chamados, uma aplicação de Controle de Finanças Web e Android e a THAL.IA, uma solução de chat com inteligência artificial utilizando Python, Flask, LangChain e Ollama. Também possuo experiência com APIs, Git, GitHub, autenticação com JWT, bcrypt e integração com bancos de dados. Tenho interesse em desenvolvimento de software e segurança Android, buscando aprofundar conhecimentos em sistemas de baixo nível, kernel, camada nativa e mecanismos de segurança do Android.</p>
+<p data-importer="text" align="left">Me chamo Edeson Caio e estou me graduando em Ciência da Computação pela UNIP, atualmente no 8º período, com experiência em suporte técnico e desenvolvimento de sistemas. Tenho experiência com JavaScript, Node.js, Express.js, Python, Flask, PostgreSQL, Kotlin e desenvolvimento de aplicações Web e Android. Ao longo da formação, desenvolvi projetos como um sistema de gerenciamento de chamados, uma aplicação de Controle de Finanças Web e Android e a THAL.IA, uma solução de chat com inteligência artificial utilizando Python, Flask, LangChain e Ollama. Também possuo experiência com APIs, Git, GitHub, autenticação com JWT, bcrypt e integração com bancos de dados. Tenho interesse em desenvolvimento de software e segurança Android, buscando aprofundar conhecimentos em sistemas de baixo nível, kernel, camada nativa e mecanismos de segurança do Android.</p>
 
 ###
 
